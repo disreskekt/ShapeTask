@@ -1,4 +1,6 @@
-﻿namespace ShapeAreaCalculator.Helpers;
+﻿using ShapeAreaCalculator.Helpers;
+
+namespace ShapeAreaCalculator.Validators;
 
 public static class TriangleValidator
 {
